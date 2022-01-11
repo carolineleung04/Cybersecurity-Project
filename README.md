@@ -1,7 +1,15 @@
 # Cybersecurity-Project
+Group Name: Emma and Caroline
+Topic: Privilege Escalation
+
 
 Group members: Caroline Leung and Emma Chio
+Google Slides: https://docs.google.com/presentation/d/1q9VuX4CkWmTWO0GiHOo1rHdsFhMC94sG2r4iNeTe08s/edit?usp=sharing
 
+THM Link: 
+WalkThrough: 
+
+# Daily Log
 Caroline (12-14): Made the repo
 
 Emma (12-15): Tested and made a virtual box with the Ubuntu operating system
