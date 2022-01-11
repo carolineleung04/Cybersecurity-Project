@@ -15,3 +15,7 @@ Emma (1-4): Researched SUID and ways to be able exploit functions with sudo priv
 Emma (1-6): Found a way to be able to add a root user or change the password of root by exploiting a weakness in that the password file is writeable. Made it so that virtual box had that weakness.
 
 Emma (1-7): Researched more about relative pathways
+
+Caroline (1-10): Researched more on SUID, commands that can be exploited through it. Worked on presentation/demo.
+
+
