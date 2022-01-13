@@ -6,8 +6,7 @@ Topic: Privilege Escalation
 Group members: Caroline Leung and Emma Chio
 Google Slides: https://docs.google.com/presentation/d/1q9VuX4CkWmTWO0GiHOo1rHdsFhMC94sG2r4iNeTe08s/edit?usp=sharing
 
-THM Link:
-WalkThrough:
+THM Link: tryhackme.com/jr/suidprivilegeescalation 
 
 # Daily Log
 Caroline (12-14): Made the repo
@@ -27,3 +26,5 @@ Emma (1-7): Researched more about relative pathways
 Caroline (1-10): Researched more on SUID, commands that can be exploited through it. Worked on presentation/demo.
 
 Emma (1-10): Worked on presentation as well as tested with virtual machine to see how to bring about the bug to be exploited
+
+Caroline (1-12): Finished up THM room tasks. 
