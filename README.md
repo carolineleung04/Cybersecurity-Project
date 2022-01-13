@@ -6,7 +6,7 @@ Topic: Privilege Escalation
 Group members: Caroline Leung and Emma Chio
 Google Slides: https://docs.google.com/presentation/d/1q9VuX4CkWmTWO0GiHOo1rHdsFhMC94sG2r4iNeTe08s/edit?usp=sharing
 
-THM Link: tryhackme.com/jr/suidprivilegeescalation 
+THM Link: https://tryhackme.com/jr/suidprivilegeescalation 
 
 # Daily Log
 Caroline (12-14): Made the repo
